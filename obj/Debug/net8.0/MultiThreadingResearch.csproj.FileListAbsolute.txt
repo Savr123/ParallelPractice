@@ -1,0 +1,14 @@
+R:\Projects\MultiThreadingResearch\bin\Debug\net8.0\MultiThreadingResearch.exe
+R:\Projects\MultiThreadingResearch\bin\Debug\net8.0\MultiThreadingResearch.deps.json
+R:\Projects\MultiThreadingResearch\bin\Debug\net8.0\MultiThreadingResearch.runtimeconfig.json
+R:\Projects\MultiThreadingResearch\bin\Debug\net8.0\MultiThreadingResearch.dll
+R:\Projects\MultiThreadingResearch\bin\Debug\net8.0\MultiThreadingResearch.pdb
+R:\Projects\MultiThreadingResearch\obj\Debug\net8.0\MultiThreadingResearch.GeneratedMSBuildEditorConfig.editorconfig
+R:\Projects\MultiThreadingResearch\obj\Debug\net8.0\MultiThreadingResearch.AssemblyInfoInputs.cache
+R:\Projects\MultiThreadingResearch\obj\Debug\net8.0\MultiThreadingResearch.AssemblyInfo.cs
+R:\Projects\MultiThreadingResearch\obj\Debug\net8.0\MultiThreadingResearch.csproj.CoreCompileInputs.cache
+R:\Projects\MultiThreadingResearch\obj\Debug\net8.0\MultiThreadingResearch.dll
+R:\Projects\MultiThreadingResearch\obj\Debug\net8.0\refint\MultiThreadingResearch.dll
+R:\Projects\MultiThreadingResearch\obj\Debug\net8.0\MultiThreadingResearch.pdb
+R:\Projects\MultiThreadingResearch\obj\Debug\net8.0\MultiThreadingResearch.genruntimeconfig.cache
+R:\Projects\MultiThreadingResearch\obj\Debug\net8.0\ref\MultiThreadingResearch.dll
